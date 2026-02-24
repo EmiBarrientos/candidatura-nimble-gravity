@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background-color: #190b1f;
+}
+
